@@ -11,12 +11,12 @@ All transformations EEdit offers are also available at runtime for Fahrenheit mo
 ### Obtaining releases
 
 Releases are available in the
-[main Fahrenheit repository](https://github.com/peppy-enterprises/fahrenheit/releases).
+[main Fahrenheit repository](https://github.com/fahrenheit-crew/fahrenheit/releases).
 
 ### Building from source
 
 EEdit is built alongside Fahrenheit. Clone the
-[main Fahrenheit repository](https://github.com/peppy-enterprises/fahrenheit/releases) to begin,
+[main Fahrenheit repository](https://github.com/fahrenheit-crew/fahrenheit/releases) to begin,
 and build it using the instructions in that repository.
 
 ### Usage
